@@ -1,0 +1,6 @@
+{
+  "name": "Sangam Mobile Centre",
+  "description": "Shop genuine mobile accessories online and pick up in person from Sangam Mobile Centre in Varanasi, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
